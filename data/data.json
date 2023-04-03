@@ -5,7 +5,7 @@
     },
     {
         "category": "Videos",
-        "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/TmZ8gH-toX0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen>"
+        "code": "<iframe width=\"450\" height=\"253\" src=\"https://www.youtube-nocookie.com/embed/TmZ8gH-toX0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen>"
     },
     {
         "category": "Websites",
@@ -35,15 +35,15 @@
     },
     {
         "category": "Videos",
-        "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/-469Gcye-ZE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "code": "<iframe width=\"450\" height=\"253\" src=\"https://www.youtube-nocookie.com/embed/-469Gcye-ZE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
         "category": "Videos",
-        "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/fwJga_Swk1o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "code": "<iframe width=\"450\" height=\"253\" src=\"https://www.youtube-nocookie.com/embed/fwJga_Swk1o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
         "category": "Videos",
-        "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2bTmB3cwhxs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+        "code": "<iframe width=\"450\" height=\"253\" src=\"https://www.youtube-nocookie.com/embed/2bTmB3cwhxs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     },
     {
         "category": "Websites",
