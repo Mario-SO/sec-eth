@@ -1,0 +1,76 @@
+[
+    {
+        "category": "Threads",
+        "code": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Now that a new year has begun, it's time to pick one resolution that will completely change your life. <br><br>I've got a suggestion for you. <br><br>Join the club of top hackers and become a Web3 Bug Bounty Hunter in 2023 🐞⚔️<br><br>To find out how, read this thread 🧵 <a href=\"https://t.co/Hq2DG7uPpn\">pic.twitter.com/Hq2DG7uPpn</a></p>— Adrian ⛩️ Hetman 🐺⚔️ (@adrianhetman) <a href=\"https://twitter.com/adrianhetman/status/1610261306761781251?ref_src=twsrc%5Etfw\">January 3, 2023</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+    },
+    {
+        "category": "Videos",
+        "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/TmZ8gH-toX0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen>"
+    },
+    {
+        "category": "Websites",
+        "title": "Ethernaut",
+        "link": "https://ethernaut.openzeppelin.com/",
+        "description": "Web3 security challenges",
+        "tag": "CTFs"
+    },
+    {
+        "category": "Websites",
+        "title": "noxx blog",
+        "link": "https://noxx.substack.com/?sort=top",
+        "description": "noxx substack blog",
+        "tag": "Blog"
+    },
+    {
+        "category": "Threads",
+        "code": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">1/43<br><br>How I went from charging just $50 down to $50,000+ per Smart Contract audit.<br><br>The ultimate guide to \"making it\" as a Smart Contract auditor so you can do it too.👇 🧵 <a href=\"https://t.co/b0VFfBr7X3\">pic.twitter.com/b0VFfBr7X3</a></p>— Owen | Web3Sec🛡️ (@0xOwenThurm) <a href=\"https://twitter.com/0xOwenThurm/status/1642585115636436992?ref_src=twsrc%5Etfw\">April 2, 2023</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+    },
+    {
+        "category": "Threads",
+        "code": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">In-depth Cryptocurrency Research used to take 10+ hours.<br><br>It now takes less than 10 minutes with ChatGPT.<br><br>Here’s a step-by-step guide on how you can use ChatGPT to conduct in-depth research:<br><br>🧵 👇 <a href=\"https://t.co/HF4q6kEIuX\">pic.twitter.com/HF4q6kEIuX</a></p>— Surf (@0xsurferboy) <a href=\"https://twitter.com/0xsurferboy/status/1641781790426947587?ref_src=twsrc%5Etfw\">March 31, 2023</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+    },
+    {
+        "category": "Threads",
+        "code": "<blockquote class=\"twitter-tweet\" data-dnt=\"true\"><p lang=\"en\" dir=\"ltr\">Just found out about <a href=\"https://t.co/hoviGBBXpr\">https://t.co/hoviGBBXpr</a> today. <br><br>It’s really useful for huff or bytecode writers!</p>— vectorized.eth (@optimizoor) <a href=\"https://twitter.com/optimizoor/status/1641857670167805953?ref_src=twsrc%5Etfw\">March 31, 2023</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+    },
+    {
+        "category": "Videos",
+        "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/-469Gcye-ZE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "category": "Videos",
+        "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/fwJga_Swk1o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "category": "Videos",
+        "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2bTmB3cwhxs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "category": "Websites",
+        "title": "blockthreat.io",
+        "link": "https://blockthreat.io/",
+        "description": "Blockchain Security Research blog",
+        "tag": "Blog"
+    },
+    {
+        "category": "Websites",
+        "title": "rugdoc.io",
+        "link": "https://rugdoc.io/",
+        "description": "Latest DeFi reports and news",
+        "tag": "News"
+    },
+    {
+        "category": "Websites",
+        "title": "rekt.news",
+        "link": "https://rekt.news/",
+        "description": "Latest news on DeFi hacks",
+        "tag": "Reports"
+    },
+    {
+        "category": "Websites",
+        "title": "Code4rena",
+        "link": "https://code4rena.com/reports/",
+        "description": "Audit reports done by users from the community",
+        "tag": "Reports"
+    }
+]
