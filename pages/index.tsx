@@ -6,7 +6,7 @@ import Video from "./components/Video";
 import Thread from "./components/Thread";
 import data from "../data/data.json";
 
-export default function Home() {
+const Home = () => {
   const [selectedCategory, setSelectedCategory] = useState<string | undefined>("Threads");
   const filteredData = data.filter((item) => item.category === selectedCategory || !selectedCategory);
 
@@ -38,3 +38,5 @@ export default function Home() {
     </div>
   );
 };
+
+export default Home;

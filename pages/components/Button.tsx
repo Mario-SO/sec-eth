@@ -5,7 +5,7 @@ type ButtonProps = {
     onClick?: (event: React.MouseEvent<HTMLButtonElement>) => void;
 };
 
-export const Button: FC<ButtonProps> = ({ text, onClick }) => {
+const Button: FC<ButtonProps> = ({ text, onClick }) => {
     return (
         <button className="w-32" onClick={onClick}>
             <a
@@ -25,3 +25,5 @@ export const Button: FC<ButtonProps> = ({ text, onClick }) => {
         </button>
     );
 };
+
+export default Button;
