@@ -8,12 +8,32 @@ import data from "../data/data.json";
 
 import { v4 as uuidv4 } from 'uuid';
 import Head from "next/head";
+import { Interface } from "readline";
+
+interface IWebSite {
+  title: string;
+  link: string;
+  description: string;
+  tag: string;
+  category: string;
+};
+
+interface IVideo {
+  title: string;
+  code: string;
+};
+
+interface IThread {
+  title: string;
+  code: string;
+};
+
 const Home = () => {
   const [selectedCategory, setSelectedCategory] = useState<string | undefined>("Threads");
   const filteredData = data.filter((item) => item.category === selectedCategory || !selectedCategory);
 
   return (
-    <div className="font-jetbrains">
+    <div className="font-jetbrains mb-10">
       <Head>
         <link
           rel="icon"
@@ -24,35 +44,51 @@ const Home = () => {
       <Hero />
       <Navbar setCategory={setSelectedCategory} />
       <div className="grid grid-cols-1 mt-10 sm:grid-cols-2 lg:grid-cols-3 gap-4 place-items-center">
-        {filteredData.map((item) => {
-          if (item.category === "Websites") {
-            return (
-              <div key={uuidv4()}>
-                <Card
-                  title={item.title}
-                  link={item.link}
-                  description={item.description}
-                  tag={item.tag}
-                />
-              </div>
-            );
-          } else if (item.category === "Videos") {
-            return (
-              <div key={uuidv4()}>
-                <Video embedCode={item.code} />
-              </div>
-            );
-          } else if (item.category === "Threads") {
-            return (
-              <div key={uuidv4()}>
-                <Thread embedCode={item.code} />
-              </div>
-            );
-          } else {
-            return null;
-          }
-        })}
+        {renderCards(filteredData)}
       </div>
+    </div>
+  );
+};
+
+const renderCards = (filteredData: Array<any>) => {
+  return filteredData.map((item) => {
+    if (item.category === "Websites") {
+      return renderWebsite(item);
+    } else if (item.category === "Videos") {
+      return renderVideo(item);
+    } else if (item.category === "Threads") {
+      return renderThread(item);
+    } else {
+      return null;
+    }
+  });
+};
+
+const renderWebsite = (item: IWebSite) => {
+  return (
+    <div key={uuidv4()}>
+      <Card
+        title={item.title}
+        link={item.link}
+        description={item.description}
+        tag={item.tag}
+      />
+    </div>
+  );
+};
+
+const renderVideo = (item: IVideo) => {
+  return (
+    <div key={uuidv4()}>
+      <Video embedCode={item.code} />
+    </div>
+  );
+};
+
+const renderThread = (item: IThread) => {
+  return (
+    <div key={uuidv4()}>
+      <Thread embedCode={item.code} />
     </div>
   );
 };
