@@ -76,5 +76,12 @@
     {
         "category": "Videos",
         "code": "<iframe width=\"450\" height=\"253\" src=\"https://www.youtube-nocookie.com/embed/EHrvD5c93JU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    },
+    {
+        "category": "Websites",
+        "title": "Secureum",
+        "link": "https://secureum.substack.com/archive?sort=top",
+        "description": "@rajeev guides and 101's on ethereum ecosystem.",
+        "tag": "Blog"
     }
 ]
