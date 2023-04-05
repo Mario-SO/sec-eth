@@ -72,5 +72,9 @@
         "link": "https://code4rena.com/reports/",
         "description": "Audit reports done by users from the community",
         "tag": "Reports"
+    },
+    {
+        "category": "Videos",
+        "code": "<iframe width=\"450\" height=\"253\" src=\"https://www.youtube-nocookie.com/embed/EHrvD5c93JU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
 ]
