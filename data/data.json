@@ -83,5 +83,12 @@
         "link": "https://secureum.substack.com/archive?sort=top",
         "description": "@rajeev guides and 101's on ethereum ecosystem.",
         "tag": "Blog"
+    },
+    {
+        "category": "Websites",
+        "title": "bytes032.xyz",
+        "link": "https://bytes032.xyz/Home",
+        "description": "@bytes032 compilation of content",
+        "tag": "Blog"
     }
 ]
