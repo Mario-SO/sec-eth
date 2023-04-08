@@ -90,5 +90,12 @@
         "link": "https://bytes032.xyz/Home",
         "description": "@bytes032 compilation of content",
         "tag": "Blog"
+    },
+    {
+        "category": "Websites",
+        "title": "cmichel.io",
+        "link": "https://cmichel.io/how-to-become-a-smart-contract-auditor/",
+        "description": "How to become a smart contract auditor by @cmichel",
+        "tag": "Blog"
     }
 ]
