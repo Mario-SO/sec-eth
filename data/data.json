@@ -108,5 +108,5 @@
     {
         "category": "Videos",
         "code": "<iframe width=\"450\" height=\"253\" src=\"https://www.youtube-nocookie.com/embed/C6A2kM1E3CM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-    },
+    }
 ]
